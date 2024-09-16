@@ -3,7 +3,8 @@ import axios from 'axios';
 
 // Removed the timeout variable as it's no longer needed
 // let timeout: NodeJS.Timeout | undefined;
-const modelName = "codegemma:2b-code-fp16"
+const modelName = "stable-code"
+// const modelName = "codegemma:2b-code-fp16"
 export function activate(context: vscode.ExtensionContext) {
   console.log('Congratulations, your extension "HomeLlama" is now active!');
 

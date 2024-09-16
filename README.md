@@ -22,6 +22,7 @@ HomeLlama is a Visual Studio Code extension that brings the power of local Large
 2. Go to the Extensions view (Ctrl+Shift+X)
 3. Search for "HomeLlama"
 4. Click Install
+5. run vsce package to compile
 
 ## Extension Settings
 
